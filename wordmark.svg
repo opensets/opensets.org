@@ -15,7 +15,10 @@
    id="svg3079"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="wordmark.svg">
+   sodipodi:docname="wordmark.svg"
+   inkscape:export-filename="/home/stuart/Projects/web/opensets/wordmark.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs3081" />
   <sodipodi:namedview
@@ -25,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="213"
-     inkscape:cy="26.499997"
+     inkscape:zoom="0.5"
+     inkscape:cx="-138.1245"
+     inkscape:cy="-0.91017763"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -68,114 +71,26 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-295,-612.36218)">
-    <rect
+    <path
        style="fill:#000000;fill-opacity:1;stroke:none"
-       id="rect2998"
-       width="32"
-       height="32"
-       x="295"
-       y="617.36218"
-       rx="8"
-       ry="8"
-       inkscape:export-filename="/home/stuart/Projects/web/opensets/rect3000.png"
-       inkscape:export-xdpi="1687.5"
-       inkscape:export-ydpi="1687.5" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect3000"
-       width="12"
-       height="12"
-       x="305"
-       y="627.36218"
-       inkscape:export-xdpi="1687.5"
-       inkscape:export-ydpi="1687.5" />
-    <rect
-       ry="8"
-       rx="8"
-       y="617.36218"
-       x="340"
-       height="32"
-       width="27"
-       id="rect3002"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <rect
-       y="617.36218"
-       x="333"
-       height="48"
-       width="10"
-       id="rect3004"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <rect
-       y="627.36218"
-       x="345"
-       height="12"
-       width="12"
-       id="rect3006"
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       ry="0" />
-    <rect
-       inkscape:export-ydpi="1687.5"
-       inkscape:export-xdpi="1687.5"
-       inkscape:export-filename="/home/stuart/Projects/web/opensets/rect3000.png"
-       ry="8"
-       rx="8"
-       y="617.36218"
-       x="373"
-       height="32"
-       width="32"
-       id="rect3012"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <rect
-       inkscape:export-ydpi="1687.5"
-       inkscape:export-xdpi="1687.5"
-       y="625.36218"
-       x="383"
-       height="5"
-       width="12"
-       id="rect3014"
-       style="fill:#ffffff;fill-opacity:1;stroke:none" />
-    <rect
-       inkscape:export-ydpi="1687.5"
-       inkscape:export-xdpi="1687.5"
-       y="636.36218"
-       x="383"
-       height="2.9999998"
-       width="23"
-       id="rect3018"
-       style="fill:#ffffff;fill-opacity:1;stroke:none" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect3135"
-       width="12"
-       height="5"
-       x="383"
-       y="636.36218"
-       inkscape:export-xdpi="1687.5"
-       inkscape:export-ydpi="1687.5" />
-    <rect
+       d="M 8 5 C 3.568 5 0 8.568 0 13 L 0 29 C 0 33.432 3.568 37 8 37 L 24 37 C 28.432 37 32 33.432 32 29 L 32 13 C 32 8.568 28.432 5 24 5 L 8 5 z M 10 15 L 22 15 L 22 27 L 10 27 L 10 15 z "
+       transform="translate(295,612.36218)"
+       id="rect2998" />
+    <path
        style="fill:#000000;fill-opacity:1;stroke:none"
-       id="rect3137"
-       width="25"
-       height="32"
-       x="418"
-       y="617.36218"
-       rx="8"
-       ry="8" />
-    <rect
+       d="M 38 5 L 38 53 L 48 53 L 48 35.25 C 49.368751 36.346457 51.101899 37 53 37 L 64 37 C 68.432 37 72 33.432 72 29 L 72 13 C 72 8.568 68.432 5 64 5 L 53 5 C 51.101899 5 49.368751 5.6535433 48 6.75 L 48 5 L 38 5 z M 50 15 L 62 15 L 62 27 L 50 27 L 50 15 z "
+       transform="translate(295,612.36218)"
+       id="rect3002" />
+    <path
        style="fill:#000000;fill-opacity:1;stroke:none"
-       id="rect3139"
-       width="10"
-       height="32"
-       x="411"
-       y="617.36218" />
-    <rect
-       ry="0"
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect3141"
-       width="12"
-       height="23"
-       x="421"
-       y="627.36218" />
+       d="M 86 5 C 81.568 5 78 8.568 78 13 L 78 29 C 78 33.432 81.568 37 86 37 L 102 37 C 106.432 37 110 33.432 110 29 L 110 27 L 100 27 L 100 29 L 88 29 L 88 27 L 88 24 L 110 24 L 110 13 C 110 8.568 106.432 5 102 5 L 86 5 z M 88 13 L 100 13 L 100 18 L 88 18 L 88 13 z "
+       transform="translate(295,612.36218)"
+       id="rect3012" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="M 116 5 L 116 37 L 126 37 L 126 35.25 L 126 15 L 138 15 L 138 37 L 140 37 C 144.432 37 148 33.432 148 29 L 148 13 C 148 8.568 144.432 5 140 5 L 131 5 C 129.1019 5 127.36875 5.6535433 126 6.75 L 126 5 L 116 5 z "
+       transform="translate(295,612.36218)"
+       id="rect3137" />
     <rect
        y="627.36218"
        x="433"
@@ -185,27 +100,9 @@
        style="fill:#000000;fill-opacity:1;stroke:none" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:none"
-       d="m 457,617.36218 16,0 c 4.432,0 8,3.568 8,8 l 0,16 c 0,4.432 -3.568,8 -8,8 l -16,0 c -4.432,0 -8,-3.568 -8,-8 l 0,-16 c 0,-4.432 3.568,-8 8,-8 z"
-       id="rect3145"
-       inkscape:connector-curvature="0" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect3149"
-       width="21"
-       height="3.0000002"
-       x="448"
-       y="636.36218"
-       inkscape:export-xdpi="1687.5"
-       inkscape:export-ydpi="1687.5" />
-    <rect
-       inkscape:export-ydpi="1687.5"
-       inkscape:export-xdpi="1687.5"
-       y="627.36218"
-       x="459"
-       height="2.9999998"
-       width="23"
-       id="rect3153"
-       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+       d="M 162 5 C 157.568 5 154 8.568 154 13 L 154 16 C 154 20.432 157.568 24 162 24 L 174 24 L 176 24 L 176 29 L 164 29 L 164 27 L 154 27 L 154 29 C 154 33.432 157.568 37 162 37 L 178 37 C 182.432 37 186 33.432 186 29 L 186 26 C 186 21.568 182.432 18 178 18 L 176 18 L 164 18 L 164 15 L 164 13 L 176 13 L 176 15 L 186 15 L 186 13 C 186 8.568 182.432 5 178 5 L 162 5 z "
+       transform="translate(295,612.36218)"
+       id="rect3145" />
     <use
        x="0"
        y="0"
@@ -214,78 +111,11 @@
        transform="translate(114,1.9531262e-7)"
        width="1052.3622"
        height="744.09448" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect3014"
-       id="use3163"
-       transform="translate(114,1.9531262e-7)"
-       width="1052.3622"
-       height="744.09448" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect3018"
-       id="use3165"
-       transform="translate(114,1.9531262e-7)"
-       width="1052.3622"
-       height="744.09448" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect3135"
-       id="use3167"
-       transform="translate(114,1.9531262e-7)"
-       width="1052.3622"
-       height="744.09448" />
-    <rect
-       inkscape:export-ydpi="1687.5"
-       inkscape:export-xdpi="1687.5"
-       inkscape:export-filename="/home/stuart/Projects/web/opensets/rect3000.png"
-       ry="8"
-       rx="8"
-       y="617.36218"
-       x="531"
-       height="32"
-       width="22"
-       id="rect3169"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <rect
-       inkscape:export-ydpi="1687.5"
-       inkscape:export-xdpi="1687.5"
-       y="629.36218"
-       x="541"
-       height="12"
-       width="4"
-       id="rect3171"
-       style="fill:#ffffff;fill-opacity:1;stroke:none" />
-    <rect
+    <path
        style="fill:#000000;fill-opacity:1;stroke:none"
-       id="rect3177"
-       width="10"
-       height="14"
-       x="531"
-       y="612.36218"
-       inkscape:export-xdpi="1687.5"
-       inkscape:export-ydpi="1687.5" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect3181"
-       width="13"
-       height="14.999997"
-       x="541"
-       y="624.36218"
-       inkscape:export-xdpi="1687.5"
-       inkscape:export-ydpi="1687.5" />
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke:none"
-       id="rect3179"
-       width="28"
-       height="8"
-       x="525"
-       y="617.36218"
-       inkscape:export-xdpi="1687.5"
-       inkscape:export-ydpi="1687.5" />
+       d="M 236 0 L 236 5 L 230 5 L 230 13 L 236 13 L 236 14 L 236 29 C 236 33.432 239.568 37 244 37 L 250 37 C 254.432 37 258 33.432 258 29 L 258 27 L 250 27 L 250 29 L 246 29 L 246 27 L 246 17 L 246 14 L 246 13 L 258 13 L 258 5 L 250 5 L 246 5 L 246 0 L 236 0 z "
+       transform="translate(295,612.36218)"
+       id="rect3169" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none"
        id="rect3193"
@@ -301,218 +131,21 @@
        transform="translate(318,1.9531262e-7)"
        width="1052.3622"
        height="744.09448" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect3000"
-       id="use3197"
-       transform="translate(318,1.9531262e-7)"
-       width="1052.3622"
-       height="744.09448" />
-    <rect
-       inkscape:export-ydpi="1687.5"
-       inkscape:export-xdpi="1687.5"
-       inkscape:export-filename="/home/stuart/Projects/web/opensets/rect3000.png"
-       ry="8"
-       rx="8"
-       y="627.36218"
-       x="689"
-       height="38"
-       width="32"
-       id="rect3207"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <rect
-       inkscape:export-ydpi="1687.5"
-       inkscape:export-xdpi="1687.5"
-       y="639.36218"
-       x="688"
-       height="14"
-       width="23"
-       id="rect3211"
-       style="fill:#ffffff;fill-opacity:1;stroke:none" />
-    <rect
-       ry="8"
-       rx="8"
-       y="617.36218"
-       x="659"
-       height="32"
-       width="25"
-       id="rect3215"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <rect
-       y="617.36218"
-       x="650"
-       height="32"
-       width="12"
-       id="rect3217"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <rect
-       y="627.36218"
-       x="662"
-       height="23"
-       width="23"
-       id="rect3219"
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       ry="0" />
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke:none"
-       id="rect3221"
-       width="12"
-       height="3.0000026"
-       x="672"
-       y="626.36218" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect3057"
-       width="9"
-       height="9"
-       x="448"
-       y="628.36218" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:none"
-       d="m 449,627.36145 0,1 c 0,4.432 3.568,8 8,8 l 1,0 0,-9 -9,0 z"
-       id="path3028"
-       inkscape:connector-curvature="0" />
-    <rect
-       y="629.36218"
-       x="473"
-       height="9"
-       width="9"
-       id="rect3059"
-       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+       d="M 402 5 C 397.568 5 394 8.568 394 13 L 394 23 L 394 27 L 394 29 C 394 33.432 397.568 37 402 37 L 413 37 C 414.05994 37 415.07588 36.808658 416 36.4375 L 416 38 L 416 41 L 416 43 L 404 43 L 404 41 L 394 41 L 394 45 C 394 49.432 397.568 53 402 53 L 418 53 C 422.432 53 426 49.432 426 45 L 426 23 L 426 5 L 418 5 L 418 6.75 C 416.63125 5.6535433 414.8981 5 413 5 L 402 5 z M 404 15 L 416 15 L 416 27 L 404 27 L 404 15 z "
+       transform="translate(295,612.36218)"
+       id="rect3207" />
     <path
-       id="path3047"
-       d="m 481,639.36218 0,-1 c 0,-4.432 -3.568,-8 -8,-8 l -1,0 0,9 9,0 z"
        style="fill:#000000;fill-opacity:1;stroke:none"
-       inkscape:connector-curvature="0" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect3147"
-       width="12"
-       height="5"
-       x="459"
-       y="625.36218"
-       inkscape:export-xdpi="1687.5"
-       inkscape:export-ydpi="1687.5" />
-    <rect
-       inkscape:export-ydpi="1687.5"
-       inkscape:export-xdpi="1687.5"
-       y="636.36218"
-       x="459"
-       height="5"
-       width="12"
-       id="rect3151"
-       style="fill:#ffffff;fill-opacity:1;stroke:none" />
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke:none"
-       id="rect3049"
-       width="27"
-       height="32"
-       x="689"
-       y="617.36218"
-       rx="8"
-       ry="8" />
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke:none"
-       id="rect3051"
-       width="8"
-       height="30"
-       x="713"
-       y="617.36218" />
-    <rect
-       ry="0"
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect3053"
-       width="12"
-       height="12"
-       x="699"
-       y="627.36218" />
-    <rect
-       transform="scale(-1,1)"
-       y="650.36218"
-       x="-711"
-       height="5"
-       width="12"
-       id="rect3055"
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       ry="0" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect3153"
-       id="use3083"
-       transform="translate(110,2.4218748e-6)"
-       width="1052.3622"
-       height="744.09448" />
+       d="M 355 5 L 355 37 L 367 37 L 367 35.25 L 367 15 L 377 15 L 377 17 L 389 17 L 389 15 L 389 14 L 389 13 C 389 8.568 385.432 5 381 5 L 372 5 C 370.1019 5 368.36875 5.6535433 367 6.75 L 367 5 L 355 5 z "
+       transform="translate(295,612.36218)"
+       id="rect3215" />
     <use
        x="0"
        y="0"
        xlink:href="#rect3145"
        id="use3097"
-       transform="translate(110,-2.6171875e-6)"
-       width="426"
-       height="53" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect3149"
-       id="use3099"
-       transform="translate(110,-2.6171875e-6)"
-       width="426"
-       height="53" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect3153"
-       id="use3101"
-       transform="translate(110,-2.6171875e-6)"
-       width="426"
-       height="53" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect3057"
-       id="use3103"
-       transform="translate(110,-2.6171875e-6)"
-       width="426"
-       height="53" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#path3028"
-       id="use3105"
-       transform="translate(110,-2.6171875e-6)"
-       width="426"
-       height="53" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect3059"
-       id="use3107"
-       transform="translate(110,-2.6171875e-6)"
-       width="426"
-       height="53" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#path3047"
-       id="use3109"
-       transform="translate(110,-2.6171875e-6)"
-       width="426"
-       height="53" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect3147"
-       id="use3111"
-       transform="translate(110,-2.6171875e-6)"
-       width="426"
-       height="53" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect3151"
-       id="use3113"
        transform="translate(110,-2.6171875e-6)"
        width="426"
        height="53" />
