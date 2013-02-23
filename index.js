@@ -11,7 +11,7 @@ function staticPage(name,title,path){
 }
 
 module.exports = function(db){
-  var topics = db.collection('topics');
+  var sets = db.collection('sets');
 
   var app = express();
 
@@ -22,25 +22,17 @@ module.exports = function(db){
   app.use(express.bodyParser());
 
   app.get('/',function(req,res){
-    topics.count(function(err,count){
-      if(err){
-        res.send(500,err);
-      } else {
-        res.render('index',{topiccount:count, path:'/'});
-      }
-    });
+    res.render('index',{path:'/'});
   });
   app.get('/details/:name',function(req,res){
     var name = req.params.name || null;
-    topics.findOne({topic:topic, scope:scope},function(err,doc){
+    sets.findOne({slug: name},function(err,doc){
       if(err){
         res.send(500,err);
       } else if (!doc) {
         respondNotFound(req,res);
       } else {
-        var title = topic;
-        if(scope) title += '('+scope+')';
-        res.render('inspect',{topic: doc, title: title});
+        res.render('details',{doc: doc});
       }
     });
   });
@@ -51,5 +43,5 @@ module.exports = function(db){
 
   app.use(respondNotFound);
 
-  return routes;
+  return app;
 };
