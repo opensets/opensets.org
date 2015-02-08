@@ -548,8 +548,8 @@ h4,
 h5,
 h6 {
   margin: 10px 0;
-  font-family: Orbitron, sans-serif;
-  font-weight: 900;
+  font-family: inherit;
+  font-weight: bold;
   line-height: 20px;
   color: inherit;
   text-rendering: optimizelegibility;
@@ -2650,8 +2650,9 @@ input[type="submit"].btn.btn-mini {
   float: left;
   display: block;
   padding: 11px 20px 0 0;
-  font-size: 20px;
-  font-weight: 200;
+  font-family: Orbitron, monospace;
+  font-size: 27px;
+  font-weight: 900;
   color: #000;
   text-shadow: 0 1px 0 #ffffff;
 }
