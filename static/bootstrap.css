@@ -7,6 +7,16 @@
  *
  * Designed and built with all the love in the world @twitter by @mdo and @fat.
  */
+@font-face {
+  font-family: 'Orbitron';
+  src: url('/fonts/orbitron-black-webfont.eot');
+  src: url('/fonts/orbitron-black-webfont.eot?#iefix') format('embedded-opentype'),
+       url('/fonts/orbitron-black-webfont.woff') format('woff'),
+       url('/fonts/orbitron-black-webfont.ttf') format('truetype'),
+       url('/fonts/orbitron-black-webfont.svg#league_spartanbold') format('svg');
+  font-weight: 900;
+  font-style: normal;
+}
 .clearfix {
   *zoom: 1;
 }
@@ -538,8 +548,8 @@ h4,
 h5,
 h6 {
   margin: 10px 0;
-  font-family: inherit;
-  font-weight: bold;
+  font-family: Orbitron, sans-serif;
+  font-weight: 900;
   line-height: 20px;
   color: inherit;
   text-rendering: optimizelegibility;
@@ -2642,7 +2652,7 @@ input[type="submit"].btn.btn-mini {
   padding: 11px 20px 0 0;
   font-size: 20px;
   font-weight: 200;
-  color: #777777;
+  color: #000;
   text-shadow: 0 1px 0 #ffffff;
 }
 .navbar .brand:hover {
